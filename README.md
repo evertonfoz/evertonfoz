@@ -3,8 +3,8 @@
 <h3>I am a university Professor at the Federal Technological University of Paraná - Campus Medianeira (UTFPR), in the Computer Science course. I'm also the author of <a href="https://www.casadocodigo.com.br/search?type=product&q=everton">Casa do Código</a>, with several published books.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=evertonfoz&label=Profile%20views&color=0e75b6&style=flat" alt="evertonfoz" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/evertoncfoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evertoncfoz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/evertoncoimbra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/evertoncoimbra/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/evertoncoimbradearaujo.pessoal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/evertoncoimbradearaujo.pessoal/" height="30" width="40" /></a>
