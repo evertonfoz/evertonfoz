@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Everton Coimbra de Araújo</h1>
 <h2 align="center">A developer and passionate about learning and teaching</h3>
 <h3>I am a university Professor at the Federal Technological University of Paraná - Campus Medianeira (UTFPR), in the Computer Science course. I'm also the author of <a href="https://www.casadocodigo.com.br/search?type=product&q=everton">Casa do Código</a>, with several published books.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evertonfoz&label=Profile%20views&color=0e75b6&style=flat" alt="evertonfoz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=evertonfoz&label=Profile%20views&color=0e75b6&style=flat" alt="evertonfoz" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
